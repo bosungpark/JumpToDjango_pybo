@@ -1,8 +1,7 @@
 # JumpToDjango pybo
 > '점프 투 장고'를 보며 pybo 게시판을 구현하였습니다.
 
-
-
+![image](https://user-images.githubusercontent.com/81157873/147243045-a787dcbf-be16-4470-a7f2-926b189672cd.png)
 
 장고를 이용해 블로그를 만들어 보았습니다.
 
