@@ -71,7 +71,7 @@ $ python manage.py runserver
 
 ## 정보
 
-박보성 – [@블로그 주소](https://blog.naver.com/qkrqhtjd0806/222419175647) – 이메일: qkrqhtjd0806@naver.com
+박보성 – [@블로그](https://blog.naver.com/qkrqhtjd0806/222419175647) – 이메일: qkrqhtjd0806@naver.com
 
 
 ## 기여 방법
